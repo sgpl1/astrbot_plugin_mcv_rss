@@ -54,4 +54,4 @@ AstrBot 的 Minecraft (Java/基岩) 版本更新监控与自动推送插件 / An
 
 ## 鸣谢 / Acknowledgments
 
-* 本项目中的 [某某功能] 灵感来源于 [akari-bot](https://github.com/Teahouse-Studios/akari-bot)，参考了其原有的业务逻辑并针对 AstrBot 框架进行了重写。感谢 Teahouse-Studios 团队的优秀开源工作！
+* 本项目灵感来源于 [akari-bot](https://github.com/Teahouse-Studios/akari-bot)，参考了其原有的业务逻辑并针对 AstrBot 框架进行了重写。感谢 Teahouse-Studios 团队的优秀开源工作！
