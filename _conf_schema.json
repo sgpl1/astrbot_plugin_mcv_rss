@@ -1,0 +1,14 @@
+{
+  "check_interval": {
+    "description": "检查更新的时间间隔",
+    "type": "int",
+    "hint": "单位为秒，即每隔多少秒自动请求一次 API 检查是否有新版本发布。默认为 60 秒。",
+    "default": 60
+  },
+  "proxy": {
+    "description": "网络代理服务器地址",
+    "type": "string",
+    "hint": "格式如 http://127.0.0.1:7890 。如果你的机器人服务器部署在中国大陆，由于网络原因无法访问 Google Play 商店，请务必配置代理。不使用代理请留空。",
+    "default": ""
+  }
+}
